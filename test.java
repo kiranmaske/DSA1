@@ -12,6 +12,7 @@ public class test {
 
 
         System.out.println("Vector v1 is: " + v1);
+        // new change for second commit
         System.out.println("Vector V1 is: " + V1);
     }
 }
